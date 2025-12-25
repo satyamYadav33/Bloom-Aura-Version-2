@@ -1,0 +1,7 @@
+{
+  "name": "BloomAura – Flowers & Plants Store",
+  "description": "A premium, nature-inspired e-commerce platform for indoor and outdoor plants, bouquets, and succulents with smooth animations and a botanical aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
